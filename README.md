@@ -29,7 +29,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## <u>Changes Made</u>
+## <u>Changes Made to Code</u>
 
 ### **Title:**
 - Changed to a more descritive website title: Horiseon - Marketing Agency.
@@ -39,8 +39,8 @@ THEN I find a concise, descriptive title
 
 ### Header: 
 - Fixed missing id to make menu link work correctly.
-- Added :hover background color for the menu for increased readability.
-- Changed position of header to fixed for ease of navigation using the \<a> in the topics as the viewer explores the page.
+- Added `:hover` and `background color` for the header menu for increased readability.
+- Changed position of header to fixed for ease of navigation for the user.
 
 ### Section and Aside: 
 - Changed div elements to semantic tags (header, nav, figure, section, article, aside, footer).
