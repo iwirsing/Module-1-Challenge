@@ -1,10 +1,11 @@
-# Module-1-Challenge - Horiseon - Marketing Agency Website
+# **Module-1-Challenge - Horiseon - Marketing Agency Website**
 Refactoring an existing website to meet accessibility standards and improve accessibility. 
 
-## Deployed Page
+## <u>Deployed Page</u>
 
 
-## User Story
+
+## <u>User Story</u>
 
 ```
 AS A marketing agency
@@ -12,7 +13,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-## Acceptance Criteria
+## <u>Acceptance Criteria</u>
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -28,9 +29,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Changes Made
+## <u>Changes Made</u>
 
-### Title:
+### **Title:**
 - Changed to a more descritive website title: Horiseon - Marketing Agency.
 
 ### Body:
@@ -52,12 +53,14 @@ THEN I find a concise, descriptive title
 - Re-arranged css to match elements in html.
 - Changed aside background color for contrast and increased readability.
 
-## Screenshot
 
-## License
+## <u>Screenshot</u>
+![Screenshot of index.html](./assets/images/Horiseon-Webpage-Screenshot.png)
+
+## <u>License</u>
 
 MIT License
-Copyright <2022 <Ivy Wirsing>
+Copyright <2022> \<Ivy Wirsing>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
