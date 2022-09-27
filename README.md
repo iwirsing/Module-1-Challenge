@@ -38,10 +38,9 @@ THEN I find a concise, descriptive title
 - Set min width to 950px so the elements are not layed over on top of each other when the browser is reduced in size.
 
 ### Header: 
-- Changed color of SEO to yellow for better contrast and increased readability.
 - Fixed missing id to make menu link work correctly.
 - Added :hover background color for the menu for increased readability.
-- Changed position of header to fixed for ease of navigation using the \<a> in the topics
+- Changed position of header to fixed for ease of navigation using the \<a> in the topics as the viewer explores the page.
 
 ### Section and Aside: 
 - Changed div elements to semantic tags (header, nav, figure, section, article, aside, footer).
@@ -51,7 +50,7 @@ THEN I find a concise, descriptive title
 - Change class names to reflect more of what they do.
 - Added comments in the html and css identify the role of each area to the website.
 - Re-arranged css to match elements in html.
-- Changed aside background color for contrast and increased readability.
+
 
 
 ## <u>Screenshot</u>

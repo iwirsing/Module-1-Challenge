@@ -37,7 +37,7 @@ header h1 {
 }
 
 header h1 .seo {
-    color:#ECFF00; /*complementary color*/
+    color:#d9dcd6;
 }
 
 header nav {
@@ -127,8 +127,7 @@ section img {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color:#2563bd ; /* changed color for increased readabiity*/
-
+    background-color:#2589bd ; 
 }
 
 .benefit-font{
