@@ -3,7 +3,7 @@ Refactoring an existing website to meet accessibility standards and improve acce
 
 ## <u>Deployed Page</u>
 
-[Horiseon - Marketing Agency Website](https://iwirsing.github.io/Module-1-Challenge-Horiseon/
+[Horiseon - Marketing Agency Website](https://iwirsing.github.io/Module-1-Challenge-Horiseon/)
 
 ## <u>User Story</u>
 
