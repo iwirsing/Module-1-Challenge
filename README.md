@@ -1,6 +1,6 @@
-# **Module-1-Challenge - Horiseon - Marketing Agency Website**
+# **Module 1 Challenge: Horiseon - Marketing Agency Website**
 Refactoring an existing website to meet accessibility standards and improve accessibility. 
-
+  
 ## <u>Deployed Page</u>
 
 [Horiseon - Marketing Agency Website](https://iwirsing.github.io/Module-1-Challenge-Horiseon/)
